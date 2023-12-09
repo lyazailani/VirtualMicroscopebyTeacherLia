@@ -43,7 +43,7 @@ html {
 }
 
 body {
-    background: #FFFFFF;
+    background: url(../images/Background.png);
     color: #666666;
     font-size: 14px;
     font-family: 'Poppins', sans-serif;
